@@ -6,9 +6,9 @@ data as tarktee.ee. The map is free; a subscription adds live camera images, sig
 weather station history, and push alerts for saved places (a radius, or a distance by road) and
 driving routes, instead of tarktee.ee's coarse region/road-number emails.
 
-**Live:** [roadconditions.drumandbytes.ee](https://roadconditions.drumandbytes.ee)
+**Live:** [teesilm.ee](https://teesilm.ee/?ref=feedback-readme)
 
 The app is closed-source. This repo exists so bugs and feature requests have a public place to
-land — [open an issue](https://github.com/drumandbytes/road-conditions-feedback/issues/new/choose).
+land — [open an issue](https://github.com/drumandbytes/teesilm-feedback/issues/new/choose).
 
 Found a security vulnerability? Please don't open a public issue — see [SECURITY.md](SECURITY.md).
